@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: grid;
+    height: 800px;
+    width: 800px;
+    grid-template-rows: 245.5px 245.5px  245.5px;
+    grid-template-columns: 245.5px 245.5px 245.5px ;
+    row-gap: 1px;
+    column-gap: 1px;
+    
+    
+    
+   
+    
+}
+
+
+.piece1{
+    background-image:url("https://i.pinimg.com/736x/2b/f6/22/2bf622a1228054df5223a2d061af23cf.jpg") ;
+    background-position: top left ;
+    background-repeat: no-repeat;
+
+   
+}
+.piece2{
+    background-image:url("https://i.pinimg.com/736x/2b/f6/22/2bf622a1228054df5223a2d061af23cf.jpg") ;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+.piece3{
+    background-image:url("https://i.pinimg.com/736x/2b/f6/22/2bf622a1228054df5223a2d061af23cf.jpg") ;
+    background-position: top right ;
+    background-repeat: no-repeat;
+}
+
+.piece4{
+    background-image:url("https://i.pinimg.com/736x/2b/f6/22/2bf622a1228054df5223a2d061af23cf.jpg") ;
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.piece5{
+    background-image:url("https://i.pinimg.com/736x/2b/f6/22/2bf622a1228054df5223a2d061af23cf.jpg") ;
+    background-position: center ;
+    background-repeat: no-repeat;
+}
+
+.piece6{
+    background-image:url("https://i.pinimg.com/736x/2b/f6/22/2bf622a1228054df5223a2d061af23cf.jpg") ;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.piece7{
+    background-image:url("https://i.pinimg.com/736x/2b/f6/22/2bf622a1228054df5223a2d061af23cf.jpg") ;
+    background-position: bottom left;
+    background-repeat: no-repeat;
+}
+
+.piece8{
+    background-image:url("https://i.pinimg.com/736x/2b/f6/22/2bf622a1228054df5223a2d061af23cf.jpg") ;
+    background-position: bottom center;
+    background-repeat: no-repeat;
+}
+
+.piece9{
+    background-image:url("https://i.pinimg.com/736x/2b/f6/22/2bf622a1228054df5223a2d061af23cf.jpg") ;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
+img{
+    height: 200px;
+    width:200px
+}
+
