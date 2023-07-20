@@ -1,12 +1,10 @@
+
 *{
     margin: 0;
     padding: 0;
 }
-
 .container{
     display: grid;
-    height: 800px;
-    width: 800px;
     grid-template-rows: 245.5px 245.5px  245.5px;
     grid-template-columns: 245.5px 245.5px 245.5px ;
     row-gap: 1px;
@@ -75,4 +73,3 @@ img{
     height: 200px;
     width:200px
 }
-
